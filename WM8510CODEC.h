@@ -1,7 +1,7 @@
 #ifndef _WM8510CODECD_H_
 #define  _WM8510CODEC_H_
 
-#include "..\h\p33FJ256GP506.h"
+#include <xc.h>
 
 #define WM8510_DCI_MASTER 				1
 #define WM8510_DCI_INTERRUPT_PRIORITY	4
